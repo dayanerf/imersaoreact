@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Games FPS",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Gameplays insanas de bons fps!",
+        "url": "https://www.youtube.com/watch?v=I9LimwJ2GmQ&list=PL31vyrOdagLess7r9ydOCy8-0u9PRW1U2"
+      },
+      "videos": [
+        {
+          "titulo": "BATTLEFIELD 5 REAL LIFE MODE - 4k",
+          "url": "https://www.youtube.com/watch?v=ODIagKgRn0M"
+        },
+        {
+          "titulo": "AGAINST ALL ODDS. A DrDisrespect WARZONE SOLO GAME",
+          "url": "https://www.youtube.com/watch?v=Blw3KGdX2p4"
+        },
+        {
+          "titulo": "Awesome Sniper Stealth Gameplay from FPS Game Sniper Ghost Warrior 3",
+          "url": "https://www.youtube.com/watch?v=tl3nSfAO5c8"
+        },
+        {
+          "titulo": "Battlefield V vs Battlefield 1 | Direct Comparison",
+          "url": "https://www.youtube.com/watch?v=IiqtN45Dovw"
+        },
+        {
+          "titulo": "Call of Duty: Black Ops 4 Blackout – 4K 60+FPS Ultra Gameplay on GeForce RTX 2080 Ti!",
+          "url": "https://www.youtube.com/watch?v=ursdazz-qLo"
+        },
+        {
+          "titulo": "Counter-Strike: Global Offensive (2019) - Gameplay (PC HD) [1080p60FPS]",
+          "url": "https://www.youtube.com/watch?v=rOpariPFAeM"
+        },
+        {
+          "titulo": "Battlefield 4: Conquest Gameplay (No Commentary)",
+          "url": "https://www.youtube.com/watch?v=MkGmNvrVBVY"
+        },
+        {
+          "titulo": "Pavlov VR - Best Highlights | CSGO VR ROOMSCALE FPS",
+          "url": "https://www.youtube.com/watch?v=9ihMYVqa2Xg"
+        }        
+      ]
+    },
+    {
+      "titulo": "Games Classics",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Gameplays de Jogos das antigas!",
+        "url": "https://www.youtube.com/watch?v=pAdh0O-Zu-A&list=PL99E1F4985CBE70AD"
+      },
+      "videos": [
+        {
+          "titulo": "Super Mario Bros. - Full Game Walkthrough",
+          "url": "https://www.youtube.com/watch?v=JJR7ER4_jmk"
+        },
+        {
+          "titulo": "SONIC de Mega Drive: Do Início ao Fim!!!",
+          "url": "https://www.youtube.com/watch?v=J06663Njops"
+        },
+        {
+          "titulo": "Donkey Kong Country Video Walkthrough",
+          "url": "youtube.com/watch?v=whp2Y_MjTXs"
+        },
+        {
+          "titulo": "[Longplay] Castlevania (NES) - All Secrets, No Deaths",
+          "url": "https://www.youtube.com/watch?v=mOTUVXrAOE8"
+        }, 
+        {
+          "titulo": "Brave Fencer Musashi (PSX) - 100% Completion Playthrough by DARK FULGORE",
+          "url": "https://www.youtube.com/watch?v=kzuOhl6819w"
+        }
+      ]
+    },
+    {
+      "titulo": "Fighting game",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Mortal Kombat Trilogy (PSX) - Longplay as Scorpion",
+          "url": "https://www.youtube.com/watch?v=XPlmgImu8kk&t=12s"
+        },
+        {
+          "titulo": "Killer Instinct PC Gameplay - Steam Version [60fps] No Commentary",
+          "url": "https://www.youtube.com/watch?v=BIa5sg7eL1g"
+        },
+        {
+          "titulo": "The King of Fighters 2002 Arcade casual Gameplay",
+          "url": "https://www.youtube.com/watch?v=zatlqSwjSPM"
+        },
+        {
+          "titulo": "Tekken 7 - PS4 Gameplay",
+          "url": "https://www.youtube.com/watch?v=mrzmlyOQW5c"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    }
+  ]
+}
