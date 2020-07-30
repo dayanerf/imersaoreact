@@ -6,7 +6,8 @@ import Carousel from './components/Carousel';
 import Footer from './components/Footer';
 import './App.css';
 
-function App() {
+
+function Home() {
   return (
    <div style={{backgroundColor:'#141414'}}>
      <Menu></Menu>
@@ -41,4 +42,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;
