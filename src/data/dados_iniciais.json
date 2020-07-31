@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Games FPS",
+      "titulo": "FPS",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "titulo": "Games Classics",
+      "titulo": "Classics",
       "cor": "#00C86F",
       "link_extra": {
         "text": "Gameplays de Jogos das antigas!",
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Indie",
       "cor": "#6b5be2",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
@@ -108,46 +108,46 @@
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Journey - Gameplay / Playthrough (No Commentary)",
+          "url": "https://www.youtube.com/watch?v=bkL94nKSd2M"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Hellblade:Senua's Sacrifice Full Playthrough",
+          "url": "https://www.youtube.com/watch?v=p7QZQfsBoGA"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "The First Tree - Full Game Walkthrough Gameplay & Ending",
+          "url": "https://www.youtube.com/watch?v=4mXhAXiyXLs"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "CARRION - Full Game Gameplay Walkthrough 100%",
+          "url": "https://www.youtube.com/watch?v=Iy-HyrhCxZk"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "The Shore Demo | H.P. Lovecraft Inspired | Indie Horror Game",
+          "url": "https://www.youtube.com/watch?v=1Z56BeftTl4"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "VR",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Beat Saber - Rap God | Eminem - (Expert+)",
+          "url": "https://www.youtube.com/watch?v=2dRTe_iXtT0"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "The Best VR Shooter!!! - Pavlov VR",
+          "url": "https://www.youtube.com/watch?v=hoklx3ZkDGQ"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "THE GREATEST VR GAME EVER MADE | Half Life Alyx (VR) - Part 1",
+          "url": "https://www.youtube.com/watch?v=f1SwlsZMUWE"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "BoxVR Oculus Quest Gameplay (Hard difficulty)",
+          "url": "https://www.youtube.com/watch?v=0JrW-GKflHE"
         }
       ]
     },

@@ -9,7 +9,7 @@ import './App.css';
 
 function Home() {
   return (
-   <div style={{backgroundColor:'#141414'}}>
+   <div style={{background:'#141414'}}>
      <Menu></Menu>
      <BannerMain
       videoTitle={dadosIniciais.categorias[0].videos[0].titulo} 
