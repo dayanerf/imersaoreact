@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 function Menu() {
     return(
         <nav className="Menu">
-            <Link href="/">
+            <Link to="/">
                 <img className="Logo" src={Logo} alt="Gameplayflix"></img>
             </Link>
             <Link className="ButtonLink" to="/cadastro/video">Novo vídeo</Link>
